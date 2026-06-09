@@ -1,5 +1,3 @@
-# relicario[index.html](https://github.com/user-attachments/files/28735298/index.html)
-<!DOCTYPE html>
 <!-- saved from url=(0116)file:///C:/Users/erazo/OneDrive/Desktop/relicario%20html/Cotiza%20tu%20joya%20%C2%B7%20Relicario%20Joyer%C3%ADa.html -->
 <html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
